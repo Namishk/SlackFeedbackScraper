@@ -1,0 +1,16 @@
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/bin/Debug/net5.0/SlackScraper
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/bin/Debug/net5.0/SlackScraper.deps.json
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/bin/Debug/net5.0/SlackScraper.runtimeconfig.json
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/bin/Debug/net5.0/SlackScraper.runtimeconfig.dev.json
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/bin/Debug/net5.0/SlackScraper.dll
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/bin/Debug/net5.0/ref/SlackScraper.dll
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/bin/Debug/net5.0/SlackScraper.pdb
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/obj/Debug/net5.0/SlackScraper.csproj.AssemblyReference.cache
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/obj/Debug/net5.0/SlackScraper.GeneratedMSBuildEditorConfig.editorconfig
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/obj/Debug/net5.0/SlackScraper.AssemblyInfoInputs.cache
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/obj/Debug/net5.0/SlackScraper.AssemblyInfo.cs
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/obj/Debug/net5.0/SlackScraper.csproj.CoreCompileInputs.cache
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/obj/Debug/net5.0/SlackScraper.dll
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/obj/Debug/net5.0/ref/SlackScraper.dll
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/obj/Debug/net5.0/SlackScraper.pdb
+/media/namish/e7dfff0c-be45-4eb6-88a4-023fe47a4033/home/namish/Documents/files/Programming/c#/SlackScraper/obj/Debug/net5.0/SlackScraper.genruntimeconfig.cache
